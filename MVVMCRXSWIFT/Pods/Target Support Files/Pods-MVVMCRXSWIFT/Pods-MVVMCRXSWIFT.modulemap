@@ -1,0 +1,6 @@
+framework module Pods_MVVMCRXSWIFT {
+  umbrella header "Pods-MVVMCRXSWIFT-umbrella.h"
+
+  export *
+  module * { export * }
+}
